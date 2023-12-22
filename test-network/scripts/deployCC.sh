@@ -17,6 +17,7 @@ VERBOSE=${11:-"false"}
 
 CC_SRC_PATH=$CC_SRC_PATH/$CC_NAME
 
+
 println "executing with the following"
 println "- CHANNEL_NAME: ${C_GREEN}q1channel, q2channel${C_RESET}"
 println "- CC_NAME: ${C_GREEN}${CC_NAME}${C_RESET}"
